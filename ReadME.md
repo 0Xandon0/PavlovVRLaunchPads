@@ -1,6 +1,6 @@
 Install this by dropping the content folder into your Pavlov VR modkit.
-Next you should move the LaunchPad folder into your UGC or SVR using the ue4 editor's content browser. If you use file explorer for this step it will break.
-Then from there add a launchPadStart actor into the world.
+Next you should open UE4 and move the LaunchPadStuff folder into your UGC or SVR using the ue4 editor's content browser. If you use file explorer for this step it will break.
+Then from there add a launchPad actor into the world.
 it needs to be positioned above the fround at about chest level
 Then in the "modes" menu, the one on the right, drag an empty actor into the world where you want the launchpad to go. This also needs to be above the ground at about chest height.
 Click on the LaunchPadStart actor that is in your world and on the right there should be a details thing. Look for an "End Point Actor" field then click the little eyedropper icon and select the Empty Actor that you placed earlier.
